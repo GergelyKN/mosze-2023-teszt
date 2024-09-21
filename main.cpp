@@ -22,5 +22,7 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+
+    std::cout << "2024.09.21. -OsziBen" << std::endl;
     return 0;
 }
